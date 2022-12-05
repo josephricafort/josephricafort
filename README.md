@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josephricafort
 - 👀 I’m interested in interactives, explorations and digital creations
 - 🌱 I’m currently learning how to code a chart that glitters and burps rainbow unicorns
-- 💞️ I’m looking to collaborate on grandeur projects we start and don't finish and move to the next one
+- 💞️ I’m looking to collaborate amd start on grandeur projects, will not finish it and move to the next one
 - 📫 You can contact me in my email josephricafortjr@gmail.com
 
 <!---
