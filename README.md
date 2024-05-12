@@ -1,3 +1,5 @@
+See the world through visuals made useful and beautiful
+
 - 👋 Hi, I’m @josephricafort
 - 👀 I’m interested in interactives, explorations and digital creations
 - 🌱 I’m currently learning how to code a chart that glitters and burps boiled sweet potatoes
