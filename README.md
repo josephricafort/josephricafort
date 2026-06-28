@@ -21,7 +21,7 @@ MapLibre GL JS · React Nextjs
 Interactive collection explorer for a Netherlands museum. 
 Dynamic timeline navigation, content clustering, connection 
 mapping across hundreds of art pieces.
-D3.js · Vue.js · React
+D3.js · Vue.js
 
 **[Haze Returns — The Straits Times](https://www.straitstimes.com/multimedia/graphics/2023/10/haze-returns-singapore-2023/index.html?shell)**  
 Visual explainer of transboundary haze across Southeast Asia.
