@@ -33,8 +33,8 @@ Svelte · Observable · QGIS · R
 
 ## Stack I reach for
 
-D3.js · MapLibre GL JS · Svelte · TypeScript · Observable · 
-QGIS · R · Figma · Deck.gl
+D3.js · MapLibre GL JS · React · Svelte · Observable · 
+Deck.gl · QGIS · R
 
 ---
 
