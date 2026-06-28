@@ -2,6 +2,8 @@ See the world through visuals made useful and beautiful
 
 👋 Hi, Joseph here! 👀 I like to create different forms of visual explorations from maps, charts to interactives. Visit my seeds of creations I've been planting in a while in my [Linktree](https://linktr.ee/josephricafort) page or send me an [email](mailto:josephricafortjr@gmail.com). Let's watch our creations grow, harvest and enjoy the fruits 🥭🍌🍍.
 
+---
+
 ## Selected work
 
 **[VibeHood](https://vibehood.app)**
@@ -13,6 +15,33 @@ and clinics. Built with MapLibre GL JS + Svelte + D3.js.
 Interactive results map for the 2025 Philippine senate elections. 
 Regional breakdowns, filterable by candidate and geography. 
 Built with D3.js + TypeScript.
+
+---
+
+## Stack
+
+D3.js · MapLibre GL JS · Svelte · TypeScript · Observable · 
+QGIS · Python · Figma
+
+---
+
+## What I do
+
+- Interactive web maps and geographic data explorers
+- Data dashboards and scrollytelling experiences  
+- Data visualization for research, media, and product teams
+- End-to-end: from messy dataset to shipped, live tool
+
+---
+
+## Work with me
+
+Building something that needs data to make sense to real people?
+I'm available for freelance from **Sept 2026**.
+
+→ josephricafort.com/contact
+→ josephricafortjr@gmail.com
+→ linkedin.com/in/josephricafort
 
 <!---
 josephricafort/josephricafort is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
