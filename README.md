@@ -39,7 +39,7 @@ QGIS · R · Figma · Deck.gl
 ## Let's build something
 
 Got data that needs to make sense to real people?
-→ josephricafort.com · in/josephricafort
+→ [in/josephricafort](in/josephricafort) · [josephricafort.com](josephricafort.com)
 
 <!---
 josephricafort/josephricafort is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
