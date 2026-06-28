@@ -26,7 +26,7 @@ Built with D3.js + TypeScript.
 ## Stack
 
 D3.js · MapLibre GL JS · Svelte · TypeScript · Observable · 
-QGIS · Python · Figma
+QGIS · R · Figma
 
 ---
 
