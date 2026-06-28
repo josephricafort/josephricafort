@@ -1,6 +1,11 @@
-See the world through visuals made useful and beautiful
+# Joseph Ricafort
 
-👋 Hi, Joseph here! 👀 I like to create different forms of visual explorations from maps, charts to interactives. Visit my seeds of creations I've been planting in a while in my [Linktree](https://linktr.ee/josephricafort) page or send me an [email](mailto:josephricafortjr@gmail.com). Let's watch our creations grow, harvest and enjoy the fruits 🥭🍌🍍.
+I design and build interactive data products — maps that move, 
+dashboards that think, and explorers that make complex data 
+feel obvious.
+
+Currently shipping things at josephricafort.com
+Available for freelance · josephricafortjr@gmail.com
 
 ---
 
