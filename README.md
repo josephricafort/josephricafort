@@ -1,3 +1,5 @@
+## About me
+
 I design and build interactive data products — maps that move, 
 dashboards that think, and explorers that make complex data 
 feel obvious.
