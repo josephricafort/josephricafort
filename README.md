@@ -11,15 +11,23 @@ Available for freelance · josephricafortjr@gmail.com
 
 ## Selected work
 
-**[VibeHood](https://vibehood.app)**
-Walkability explorer for Singapore — every HDB flat and condo 
-scored by proximity to MRT, schools, hawker centres, parks, 
-and clinics. Built with MapLibre GL JS + Svelte + D3.js.
+**[VibeHood](https://vibehood.app)** 
+Walkability explorer for Singapore. Every HDB flat and condo 
+scored by what actually matters to your lifestyle — MRT, 
+schools, hawker centres, parks, clinics. 
+MapLibre GL JS · React Nextjs
 
-**[Philippine Senate Election Map](https://manok-namin-sa-senado.vercel.app/)**
-Interactive results map for the 2025 Philippine senate elections. 
-Regional breakdowns, filterable by candidate and geography. 
-Built with D3.js + TypeScript.
+**[Connectie Collectie — Museum Aarnhem](https://collectieconnectie.nl/collection/)**  
+Interactive collection explorer for a Netherlands museum. 
+Dynamic timeline navigation, content clustering, connection 
+mapping across hundreds of art pieces.  
+D3.js · Vue.js · React
+
+**[Philippines Tourism Trends](https://traveltrendsph.vercel.app/)**  
+Data explorer for Philippine regional tourism arrivals. 
+Filterable, comparable, built for people who need to 
+understand where tourists actually go and why.  
+D3.js · Deck.gl · Observable Framework
 
 ---
 
